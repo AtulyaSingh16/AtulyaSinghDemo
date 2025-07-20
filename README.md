@@ -1,3 +1,3 @@
 # AtulyaSinghDemo
 This is my first Git Repository <br>
-Author - Atulya Singh 
+Author - Atulya Singh
